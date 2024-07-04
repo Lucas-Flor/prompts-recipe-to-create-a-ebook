@@ -1,0 +1,7 @@
+Faça um ebook, com foco em Python, listando as principais bibliotecas para análise de dados e ciência de dados com exemplos em código
+
+{Regras}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais
+>Sempre deixe um título sugestivo para o tópico.
